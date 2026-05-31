@@ -1,4 +1,4 @@
-name: MLOps pipeline
+name: MLOpsWithMLFlow pipeline
 
 on:
   push:
